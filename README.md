@@ -90,5 +90,5 @@ This project was created by **Team Risers**.
 
 ### Team Members:
 - [Abhinay Reddy Kothapally](https://github.com/abhinay6227)
-- [Krishnakumar Tulasi](https://github.com/tualsikrishnakumar)
+- [Krishnakumar Tulasi](https://github.com/tulasikrishnakumar)
 - [Thilak Adepu](https://github.com/thilakadepu)
